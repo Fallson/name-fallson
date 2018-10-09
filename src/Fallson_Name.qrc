@@ -1,0 +1,23 @@
+<RCC>
+	<qresource prefix="/PhotoFrame">
+
+		<file>res/images/buildinui/textbold.png</file>
+		<file>res/images/buildinui/textitalic.png</file>
+		<file>res/images/buildinui/textunder.png</file>
+		<file>res/images/buildinui/txtshadow.png</file>
+
+		<file>res/images/buildinui/texttop.png</file>
+		<file>res/images/buildinui/textvcenter.png</file>
+		<file>res/images/buildinui/textbottom.png</file>
+		<file>res/images/buildinui/textleft.png</file>
+		<file>res/images/buildinui/textcenter.png</file>
+		<file>res/images/buildinui/textright.png</file>
+		<file>res/images/buildinui/textjustify.png</file>
+
+		<file>res/images/buildinui/curs/switchimg.png</file>
+		<file>res/images/buildinui/curs/switchpage.png</file>
+		<file>res/images/buildinui/curs/rotate.png</file>
+
+
+	</qresource>
+</RCC>
